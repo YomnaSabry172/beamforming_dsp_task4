@@ -289,8 +289,8 @@ Window functions reduce side lobes, but usually make the main beam wider. This c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/YomnaSabry172/beamforming_dsp_task4.git
+cd beamforming_dsp_task4
 ```
 
 ---
